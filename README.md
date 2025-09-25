@@ -2,11 +2,7 @@ Zomato-Analysis (criação de dashboards interativos usando Excel/Power BI/Table
 Objetivo do Projeto
 
 O objetivo deste projeto é analisar os dados de restaurantes do Zomato para descobrir insights sobre tendências do setor, preferências dos clientes e principais fatores que influenciam avaliações e preços.
-A meta é ajudar empresas, donos de restaurantes e stakeholders a tomarem decisões baseadas em dados para melhorar a qualidade do serviço, precificação do cardápio e satisfação dos clientes.
-
-Base de Dados Utilizada
-
-<a href="https://github.com/Rakshithabadiger/Zomato-Analysis/blob/main/Zomata%20-%20Copy.xlsx"> Dataset </a>
+A meta é ajudar empresas, donos de restaurantes e stakeholders a tomarem decisões baseadas em dados para melhorar a qualidade do serviço, precificação do cardápio e satisfação dos clientes
 
 Processo
 
