@@ -102,5 +102,8 @@ Conversão dos valores de custo para um formato de moeda uniforme para análise.
 Consultas SQLs
 
 
-## Final Conclusion
-The analysis of Zomato’s restaurant data provides valuable insights into customer preferences, cost dynamics, and city-wise trends. Restaurants can leverage these findings to optimize their menus, pricing strategies, and service offerings. This project demonstrates how data cleaning, visualization, and exploratory analysis can transform raw data into actionable business intelligence.
+Conclusão Final
+
+A análise dos dados de restaurantes do Zomato fornece insights valiosos sobre as preferências dos clientes, a dinâmica de custos e as tendências por cidade.
+Os restaurantes podem aproveitar essas descobertas para otimizar seus cardápios, estratégias de precificação e ofertas de serviços.
+Este projeto demonstra como a limpeza de dados, a visualização e a análise exploratória podem transformar dados brutos em inteligência de negócios acionável.
