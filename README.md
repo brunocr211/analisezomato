@@ -1,4 +1,4 @@
-Zomato-Analysis (criação de dashboards interativos usando Excel/Power BI/Tableau) e SQL
+**Zomato-Analysis (criação de dashboards interativos usando Excel/Power BI/Tableau) e SQL**
 Objetivo do Projeto
 
 O objetivo deste projeto é analisar os dados de restaurantes do Zomato para descobrir insights sobre tendências do setor, preferências dos clientes e principais fatores que influenciam avaliações e preços.
